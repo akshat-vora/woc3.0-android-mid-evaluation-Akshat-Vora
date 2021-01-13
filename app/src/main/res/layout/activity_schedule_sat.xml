@@ -51,7 +51,7 @@
             android:layout_marginBottom="32sp"
             android:background="#C11717"
             android:gravity="center"
-            android:text="@string/time_2"
+            android:text="@string/time_7"
             android:textSize="20sp"
             android:textStyle="normal|bold" />
 
@@ -66,37 +66,7 @@
             android:layout_marginRight="32sp"
             android:layout_marginBottom="32sp"
             android:gravity="center"
-            android:text="@string/free_lec"
-            android:textSize="20sp" />
-
-        <TextView
-            android:id="@+id/textView6"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="32sp"
-            android:layout_marginLeft="32sp"
-            android:layout_marginTop="32sp"
-            android:layout_marginEnd="32sp"
-            android:layout_marginRight="32sp"
-            android:layout_marginBottom="32sp"
-            android:background="#C11717"
-            android:gravity="center"
-            android:text="@string/time_3"
-            android:textSize="20sp"
-            android:textStyle="normal|bold" />
-
-        <TextView
-            android:id="@+id/textView7"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="32sp"
-            android:layout_marginLeft="32sp"
-            android:layout_marginTop="32sp"
-            android:layout_marginEnd="32sp"
-            android:layout_marginRight="32sp"
-            android:layout_marginBottom="32sp"
-            android:gravity="center"
-            android:text="@string/free_lec"
+            android:text="@string/IT_215"
             android:textSize="20sp" />
 
     </LinearLayout>

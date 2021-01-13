@@ -18,6 +18,10 @@
     <string name="time_1">8:30 AM - 9:45 AM</string>
     <string name="time_2">10:15 AM - 11:30 AM</string>
     <string name="time_3">12 Noon - 1:15 PM</string>
+    <string name="time_4">2 PM - 3 PM</string>
+    <string name="time_5">2 PM - 4 PM</string>
+    <string name="time_6">2 PM - 5 PM</string>
+    <string name="time_7">9 AM - 12 Noon</string>
     // SUBJECTS
     <string name="IT_215">IT215- Systems Software (JP/SB)</string>
     <string name="EL_213">EL213- Analog Circuits (RP/TKM)</string>
