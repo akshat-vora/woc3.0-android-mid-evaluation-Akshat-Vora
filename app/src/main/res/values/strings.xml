@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    // DAYS
+    <string name="day_1">Monday</string>
+    <string name="day_2">Tuesday</string>
+    <string name="day_3">Wednesday</string>
+    <string name="day_4">Thursday</string>
+    <string name="day_5">Friday</string>
+    <string name="day_6">Saturday</string>
+    // DAY HEADERS
+    <string name="day_1_head">Monday Schedule</string>
+    <string name="day_2_head">Tuesday Schedule</string>
+    <string name="day_3_head">Wednesday Schedule</string>
+    <string name="day_4_head">Thursday Schedule</string>
+    <string name="day_5_head">Friday Schedule</string>
+    <string name="day_6_head">Saturday Schedule</string>
+    // TIMES
+    <string name="time_1">8:30 AM - 9:45 AM</string>
+    <string name="time_2">10:15 AM - 11:30 AM</string>
+    <string name="time_3">12 Noon - 1:15 PM</string>
+    // SUBJECTS
+    <string name="IT_215">IT215- Systems Software (JP/SB)</string>
+    <string name="EL_213">EL213- Analog Circuits (RP/TKM)</string>
+    <string name="SC_209">SC209- Environmental Studies (RG)</string>
+    <string name="CT_215">CT215- Analog Communication and Transmission Line Theory (DKG/SG)</string>
+    <string name="SC_222">SC222- Probability Statistics and Information Theory (GG/MS)</string>
+    <string name="SC_221">SC221- Engineered Materials (AKR)</string>
+    <string name="CS_201">CS201- Introductory Computational Physics (AR)</string>
+
+    <string name="free_lec">Free Lecture</string>
+    <string name="lab">Lab/Tutorial</string>
+    // PROFESSORS
+    <string name="profs">Professors</string>
+    <string name="prof_JP">JP: Jay Prakash</string>
+    <string name="prof_SB">SB: Shruti Bhilare</string>
+    <string name="prof_AKR">AKR: Anil Roy </string>
+    <string name="prof_RG">RG: Ranendu Ghosh</string>
+    <string name="prof_RP">RP: Rutu Parekh</string>
+    <string name="prof_TKM">TKM: Tapas Kumar Maiti</string>
+    <string name="prof_DKG">DKG: Deepak Ghodgaonkar</string>
+    <string name="prof_SG">SG: Sanjeev Gupta</string>
+    <string name="prof_GG">GG: Gagan Garg</string>
+    <string name="prof_MS">MS: Madhukant Sharma</string>
+    <string name="prof_AR">AR: Arnab Ray</string>
+</resources>

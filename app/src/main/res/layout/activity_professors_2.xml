@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".professors_2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="111dp">
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:background="#24B613"
+            android:gravity="center"
+            android:text="@string/SC_209"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:gravity="center"
+            android:text="@string/prof_RG"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:background="#24B613"
+            android:gravity="center"
+            android:text="@string/SC_221"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:gravity="center"
+            android:text="@string/prof_AKR"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView43"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:background="#24B613"
+            android:gravity="center"
+            android:text="@string/SC_222"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:gravity="center"
+            android:text="@string/prof_GG"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView45"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:gravity="center"
+            android:text="@string/prof_MS"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView46"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:background="#24B613"
+            android:gravity="center"
+            android:text="@string/CS_201"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView47"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24sp"
+            android:gravity="center"
+            android:text="@string/prof_AR"
+            android:textSize="18sp" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatingActionButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="prev_prof"
+            app:srcCompat="@android:drawable/ic_media_rew"
+            android:focusable="true"
+            android:contentDescription="TODO" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

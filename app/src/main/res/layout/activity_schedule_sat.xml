@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".schedule_sat">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="196dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:gravity="center"
+            android:text="@string/day_6_head"
+            android:textSize="32sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32sp"
+            android:layout_marginLeft="32sp"
+            android:layout_marginTop="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginRight="32sp"
+            android:layout_marginBottom="32sp"
+            android:background="#FF8C00"
+            android:gravity="center"
+            android:text="@string/lab"
+            android:textSize="20sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32sp"
+            android:layout_marginLeft="32sp"
+            android:layout_marginTop="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginRight="32sp"
+            android:layout_marginBottom="32sp"
+            android:background="#C11717"
+            android:gravity="center"
+            android:text="@string/time_2"
+            android:textSize="20sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32sp"
+            android:layout_marginLeft="32sp"
+            android:layout_marginTop="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginRight="32sp"
+            android:layout_marginBottom="32sp"
+            android:gravity="center"
+            android:text="@string/free_lec"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32sp"
+            android:layout_marginLeft="32sp"
+            android:layout_marginTop="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginRight="32sp"
+            android:layout_marginBottom="32sp"
+            android:background="#C11717"
+            android:gravity="center"
+            android:text="@string/time_3"
+            android:textSize="20sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32sp"
+            android:layout_marginLeft="32sp"
+            android:layout_marginTop="32sp"
+            android:layout_marginEnd="32sp"
+            android:layout_marginRight="32sp"
+            android:layout_marginBottom="32sp"
+            android:gravity="center"
+            android:text="@string/free_lec"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
