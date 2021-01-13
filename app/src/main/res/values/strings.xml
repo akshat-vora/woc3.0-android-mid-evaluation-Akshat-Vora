@@ -33,6 +33,7 @@
 
     <string name="free_lec">Free Lecture</string>
     <string name="lab">Lab/Tutorial</string>
+    <string name="fre_lab">No Lab/ Lecture</string>
     // PROFESSORS
     <string name="profs">Professors</string>
     <string name="prof_JP">JP: Jay Prakash</string>
